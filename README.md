@@ -67,7 +67,7 @@ Odo Ona Elewe, Ibadan
 08121275255
 
 **Email**  
-[Aksina2012@gmail.com](mailto:aksina2012@gmail.com)
+[gasksina2012@gmail.com](mailto:gasksina2012@gmail.com)
 
 **WhatsApp**  
 [Chat with MES on WhatsApp](https://wa.me/2348050501375)
