@@ -8,7 +8,8 @@ This repository contains the static website for Municipal Engineering Services L
 
 - **Home**: Company introduction, core strengths, services overview, and calls to action.
 - **About**: MES vision, mission, values, and engineering philosophy.
-- **Services**: Estate management, civil engineering, building construction, government approvals, and community development consultancy.
+- **Services**: Estate management, civil engineering, building construction, government approvals, community development consultancy, and Corporate Community Infrastructure Advisory Services (CCIAS).
+- **CCIAS**: Advisory support for organizations assessing infrastructure around their operations and developing community-focused CSR projects.
 - **Specialization**: Drainage and community infrastructure services.
 - **Projects**: Project categories and portfolio placeholders for roads, drainage, buildings, estate services, and community projects.
 - **Insights**: Articles and topics covering infrastructure, drainage, estate management, approvals, housing, and road maintenance.
@@ -56,6 +57,14 @@ This repository contains the static website for Municipal Engineering Services L
 - Stakeholder engagement
 - Community improvement initiatives
 
+### Corporate Community Infrastructure Advisory Services (CCIAS)
+
+- Infrastructure assessment around business operations
+- Technical advisory reports and practical recommendations
+- Government engagement and community liaison support
+- CSR project development for infrastructure and environmental initiatives
+- Engineering surveys, designs, supervision, monitoring, and reporting
+
 ## Contact
 
 **Office address**  
@@ -93,6 +102,7 @@ lib/           Existing template and supporting assets
 - `index.html` - Homepage
 - `about.html` - About MES
 - `service.html` - Services
+- `ccias.html` - Corporate Community Infrastructure Advisory Services
 - `specialization.html` - Drainage specialization
 - `portfolio.html` - Projects
 - `blog.html` - Insights

@@ -72,6 +72,31 @@ h1, h2, h3 { font-family: 'Space Grotesk', sans-serif; line-height: 1.08; }
 .principle { max-width: 100%; background: #e8e9dc; }
 .principle h2 { max-width: 650px; }
 .principle > p { font-size: 18px; }
+.ccias-intro { background: var(--white); }
+.ccias-issues { align-self: center; padding: 30px; border-left: 3px solid var(--accent); background: #e8e9dc; }
+.ccias-issues h3 { margin-top: 0; font-size: 22px; }
+.ccias-issues ul, .ccias-credentials { padding-left: 20px; }
+.ccias-issues li, .ccias-credentials li { margin: 10px 0; }
+.ccias-issues p { margin-bottom: 0; color: var(--muted); font-size: 14px; }
+.ccias-principle > p:last-child { max-width: 850px; }
+.ccias-steps { grid-template-columns: repeat(2, 1fr); }
+.ccias-steps h3 { margin-top: 20px; }
+.ccias-benefits { background: var(--white); }
+.ccias-benefits .section-heading { max-width: 720px; margin-bottom: 34px; }
+.ccias-benefits .service-grid article { border-color: var(--line); }
+.ccias-benefits .service-grid span { color: var(--accent); }
+.ccias-benefits .service-grid h3 { margin: 18px 0 10px; }
+.ccias-benefits .service-grid p { color: var(--muted); }
+.ccias-why { background: #e8e9dc; }
+.ccias-credentials { align-self: center; columns: 2; }
+.ccias-portfolio { background: var(--white); }
+.ccias-portfolio .section-heading { max-width: 720px; margin-bottom: 34px; }
+.ccias-portfolio .service-grid article { border-color: var(--line); }
+.ccias-portfolio .service-grid span { color: var(--accent); }
+.ccias-portfolio .service-grid h3 { margin: 18px 0 10px; }
+.ccias-vision.cta-band { background: var(--green-dark); }
+.ccias-vision p:not(.eyebrow) { max-width: 720px; color: #d5e0dc; }
+.ccias-vision .eyebrow { color: var(--lime); }
 .cta-band { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 60px 11%; color: var(--white); background: var(--accent); }
 .cta-band .eyebrow { color: var(--white); opacity: .8; }
 .cta-band h2 { max-width: 700px; margin: 0; }
@@ -123,6 +148,9 @@ h1, h2, h3 { font-family: 'Space Grotesk', sans-serif; line-height: 1.08; }
     .trust-strip div { padding: 20px 15px; }
     .section-image img { height: 300px; }
     .service-grid { grid-template-columns: 1fr; }
+    .ccias-steps { grid-template-columns: 1fr; }
+    .ccias-issues { padding: 22px; }
+    .ccias-credentials { columns: 1; }
     .cta-band { display: block; padding: 50px 8%; }
     .cta-band .button { margin-top: 20px; }
     .site-footer { grid-template-columns: 1fr; padding: 50px 8%; }
